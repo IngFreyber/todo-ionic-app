@@ -1,0 +1,32 @@
+.completed {
+  text-decoration: line-through;
+  color: gray;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: gray;
+}
+
+.titulo {
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+
+.subtitulo {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 1rem;
+  color: #6b7280;
+}
+
+.custom-card {
+  border-radius: 15px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.color-dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+}
