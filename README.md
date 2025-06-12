@@ -79,9 +79,16 @@ ModalController se usa para invocar componentes modales dinámicamente (como la 
 
 El código está comentado siguiendo buenas prácticas, para facilitar la comprensión y el mantenimiento.
 
+🔹 APK (Android): 
+https://drive.google.com/file/d/18KTtticBefmEpuyuZSALWy5UMmCVqSjd/view?usp=drive_link
+
 ************
 📸 Capturas de pantalla
+Video: https://drive.google.com/file/d/1c-dizJflj3y_2UsCr4JZgO5WYC4XcYm4/view?usp=drive_link
+Capture: https://drive.google.com/file/d/1oyYnvvNMtolWxkGnxn7ptcVqTOMMyiPi/view?usp=drive_link
 ***********
+
+IMPORTANTE: Debido al tiempo limitado, no pude completar la prueba en iOS; sin embargo, la aplicación está diseñada para funcionar correctamente en dispositivos iOS.
 
 📄 Licencia
 Este proyecto se entrega sin licencia específica (uso libre para fines educativos y de evaluación técnica).
